@@ -1,4 +1,4 @@
-## This pair of functions invert a matrix and result.
+## This pair of functions invert a matrix and cache its result.
 
 
 
