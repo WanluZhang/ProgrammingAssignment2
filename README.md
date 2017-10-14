@@ -103,3 +103,5 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+Adding some content to illustrate git/github integration
